@@ -1,0 +1,12 @@
+Escenarios documento
+ - Sin campo magnético ~> sin probabilidad de audioría
+
+Parámetros
+ - Campo magnético => probabilidad de auditoría??
+	Thus, a positive field Bi > 0 lowers the energy for a positive spin value
+	Si = +1, whereas a negative field favors negative spins Si = −1.		   
+ - Temperatura => temperatura social (influencia entre contribuyentes)
+ - B/T => preferencia endógena respecto al cumplimiento -> como de manipulable es el código de conducta??
+ - J => mide la intensidad de la interacción de intercambio. 
+	Si J > 0, la energía de interacción es más pequeña cuando los momentos magnéticos son paralelos 
+	que cuando son antiparalelos. Cuando J < 0 se tiene la situación inversa.

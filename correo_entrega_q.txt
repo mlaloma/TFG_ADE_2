@@ -1,0 +1,16 @@
+Buenas tardes,
+
+Te dejo adjunto lo que tengo de momento escrito del primer apartado del TFG. Me hubiera gustado tenerlo listo antes pero me he atascado un poco con la explicación del modelo de Ising.
+Pensaba utilizar la explicación de tu TFG utilizando combinatoria para el modelo en una dimensión, aunque al empezar con ella me pareció que iba a quedar demasiado largo.
+
+Por otro lado te adjunto la carpeta en al que empecé a desarrollar el modelo en python; En la carpeta modelo hay 5 archivos:
+ - los que se llaman dibujo Ising los he utilizado únicamente para hacer las figuras del documento al no encontrar ninguna que me gustara en internet.
+ - el archivo Montecarlo igual, lo utilicé para la explicación del cálculo de pi utilizando el método Montecarlo.
+ - el archivo modelo es la primera versión del modelo definitivo, en este caso es el modelo de Ising en 2D normal y corriente, dependiente de la temperatura.
+   Se puede pausar la ejecución con el espacio y aumentar o disminuir la temperatura de manera dinámica con las flechas del teclado. 
+   ¿Que otros añadidos considerarías interesantes para incluirlos más adelante?
+
+Si pudieras decirme que te parece lo que llevo hasta ahora a grandes rasgos y si debo continuar con la explicación o enfocarla de otra manera te estaría muy agradecido.
+
+Un saludo,
+Miguel Laloma.
